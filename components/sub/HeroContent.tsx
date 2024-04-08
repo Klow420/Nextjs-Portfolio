@@ -37,7 +37,7 @@ const HeroContent = () => {
             variants={slideInFromLeft(0.8)}
             className='text-lg text-gray-400 my-5 max-w-[600px]'
             >
-                Bonjour et bienvenue dans mon monde numérique ! Je m'appele Keiran, je suis passionné par le développement web et j'ai le plaisir de vous présenter mon portfolio, une collection de mes projets où je mets en avant mes compétences et mon savoir-faire dans la création de sites web innovants et fonctionnels. Explorez, découvrez et laissez-vous inspirer par mon travail !
+                Bonjour et bienvenue dans mon monde numérique ! Je m&apos;appele Keiran, je suis passionné par le développement web et j&apos;ai le plaisir de vous présenter mon portfolio, une collection de mes projets où je mets en avant mes compétences et mon savoir-faire dans la création de sites web innovants et fonctionnels. Explorez, découvrez et laissez-vous inspirer par mon travail !
             </motion.p>
             <motion.a
             variants={slideInFromLeft(1)}

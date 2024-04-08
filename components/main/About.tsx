@@ -26,7 +26,7 @@ const About = () => {
           <p className='text-lg text-gray-400 my-5 max-w-[900px] text-center sm:text-2xl'>
             Je suis un développeur web passionné par la création de solutions innovantes.
 
-            Avec une solide expertise en HTML, CSS, JavaScript et une expérience pratique avec React.js, je conçois des sites web esthétiques et fonctionnels. Toujours à l'affût des nouvelles technologies, je cherche à contribuer à des projets stimulants pour mettre mes compétences en pratique et apporter une réelle valeur ajoutée. Découvrez mes travaux ci-dessous et contactez-moi pour toute collaboration.
+            Avec une solide expertise en HTML, CSS, JavaScript et une expérience pratique avec React.js, je conçois des sites web esthétiques et fonctionnels. Toujours à l&apos;affût des nouvelles technologies, je cherche à contribuer à des projets stimulants pour mettre mes compétences en pratique et apporter une réelle valeur ajoutée. Découvrez mes travaux ci-dessous et contactez-moi pour toute collaboration.
           </p>
         </motion.div>
     </div>
